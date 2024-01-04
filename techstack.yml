@@ -1,7 +1,8 @@
 repo_name: lrkwz/adminer-extended
 report_id: fd5e2d0ef9597c4efcbe40c829beaaf9
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T12:29:16+00:00'
+timestamp: '2024-01-04T14:53:21+00:00'
 requested_by: lrkwz
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/lrkwz/adminer-extended
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lrkwz/adminer-extended
   detection_source: Repo Metadata
 - name: Adminer
   description: Full-featured database management tool written in PHP.
@@ -33,7 +36,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7285/icon.png
-  detection_source_url: Dockerfile
+  detection_source_url: https://github.com/lrkwz/adminer-extended/blob/main/Dockerfile
   detection_source: Dockerfile
   last_updated_by: lrkwz
   last_updated_on: 2021-06-14 15:23:48.000000000 Z
