@@ -1,0 +1,4 @@
+services:
+  adminer:
+    build: .
+    image: lrkwz/adminer-extended
